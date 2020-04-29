@@ -66,7 +66,7 @@
   left:0px;
   top:0px;
   width:288px;
-  height:33px;
+  height:32px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -86,7 +86,7 @@
   left:32px;
   top:32px;
   width:288px;
-  height:33px;
+  height:32px;
   display:flex;
   font-family:'苹方 中等', '苹方';
   font-weight:400;
@@ -904,7 +904,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-family:'Microsoft YaHei ', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -919,7 +919,7 @@
   width:317px;
   height:54px;
   display:flex;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-family:'Microsoft YaHei ', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   font-size:14px;

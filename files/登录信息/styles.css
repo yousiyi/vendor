@@ -984,7 +984,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1000,7 +1000,7 @@
   width:1136px;
   height:842px;
   display:flex;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1171,7 +1171,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1186,7 +1186,7 @@
   width:300px;
   height:32px;
   display:flex;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1219,7 +1219,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1234,7 +1234,7 @@
   width:300px;
   height:32px;
   display:flex;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1314,7 +1314,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1330,7 +1330,7 @@
   width:112px;
   height:32px;
   display:flex;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1364,7 +1364,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1379,7 +1379,7 @@
   width:64px;
   height:35px;
   display:flex;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1412,7 +1412,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1427,7 +1427,7 @@
   width:300px;
   height:32px;
   display:flex;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1463,7 +1463,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1479,7 +1479,7 @@
   width:300px;
   height:32px;
   display:flex;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1513,7 +1513,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1528,7 +1528,7 @@
   width:300px;
   height:32px;
   display:flex;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1569,7 +1569,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:650;
   font-style:normal;
   font-size:16px;
@@ -1584,7 +1584,7 @@
   width:64px;
   height:24px;
   display:flex;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:650;
   font-style:normal;
   font-size:16px;
@@ -1694,7 +1694,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:70px;
+  width:69px;
   height:40px;
   background:inherit;
   background-color:rgba(24, 144, 255, 1);
@@ -1703,7 +1703,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1716,10 +1716,10 @@
   position:absolute;
   left:346px;
   top:394px;
-  width:70px;
+  width:69px;
   height:40px;
   display:flex;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1744,7 +1744,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:70px;
+  width:69px;
   height:40px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1756,7 +1756,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1769,10 +1769,10 @@
   position:absolute;
   left:426px;
   top:394px;
-  width:70px;
+  width:69px;
   height:40px;
   display:flex;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1806,7 +1806,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1821,7 +1821,7 @@
   width:50px;
   height:35px;
   display:flex;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC ', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1857,7 +1857,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1873,7 +1873,7 @@
   width:87px;
   height:32px;
   display:flex;
-  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
